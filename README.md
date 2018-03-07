@@ -1,5 +1,4 @@
-# testing_automatico
-Ejemplos de testing automático de páginas web usando CasperJS
+# Testing automático de páginas web con CasperJS
 
 Para ejecutar los scripts de ejemplo debemos tener instaladas las librerías PhantomJS y CasperJS
 Lo manera más fácil para no tener que preocuparnos de incluirlas en el PATH es instalarlas mediante npm comom un módulo global:
